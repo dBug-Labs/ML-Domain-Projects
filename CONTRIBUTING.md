@@ -1,6 +1,3 @@
-Certainly! Here's a basic template for the `CONTRIBUTING.md` file for your ML Domain Projects repository:
-
-```markdown
 # Contributing Guidelines
 
 Thank you for considering contributing to the ML Domain Projects repository! Contributions are essential for the success of this project. Please take a moment to review the following guidelines before getting started.
