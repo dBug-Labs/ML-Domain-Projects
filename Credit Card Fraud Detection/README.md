@@ -1,1 +1,1 @@
-
+This project employs a Logistic Regression model for fraud detection, focusing on identifying fraudulent transactions in industries such as finance and e-commerce. The model is implemented in Python, utilizing popular libraries like NumPy, pandas, scikit-learn, matplotlib,
